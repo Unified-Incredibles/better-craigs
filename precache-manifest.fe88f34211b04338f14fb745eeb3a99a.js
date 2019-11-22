@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0d4866f35a29bca821f4733ac0023579",
+    "revision": "1476df0cf57954ba22ea2a32ab45cc33",
     "url": "/better-craigs/index.html"
   },
   {
-    "revision": "dada025bf474be08cd7b",
+    "revision": "ec3fe89a728b971b3000",
     "url": "/better-craigs/static/css/2.833dd627.chunk.css"
   },
   {
-    "revision": "f4e2f0a836cdfdb2b8a3",
-    "url": "/better-craigs/static/css/main.4689e8cb.chunk.css"
+    "revision": "a1cf68900c5db7aee271",
+    "url": "/better-craigs/static/css/main.4696bfe9.chunk.css"
   },
   {
-    "revision": "dada025bf474be08cd7b",
-    "url": "/better-craigs/static/js/2.0e498a9b.chunk.js"
+    "revision": "ec3fe89a728b971b3000",
+    "url": "/better-craigs/static/js/2.f1a57e5e.chunk.js"
   },
   {
-    "revision": "f4e2f0a836cdfdb2b8a3",
-    "url": "/better-craigs/static/js/main.03826348.chunk.js"
+    "revision": "a1cf68900c5db7aee271",
+    "url": "/better-craigs/static/js/main.b19947b8.chunk.js"
   },
   {
     "revision": "5c222c81cd42c275ec8b",
