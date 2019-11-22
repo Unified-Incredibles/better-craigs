@@ -24,3 +24,8 @@ nav{
     top:-8px;
     left: 30px;
   }
+  .jumbotron,
+.jumbotron-fluid {
+  background-image: url('../../339656-Downtown-Miami.jpg');
+  background-size: cover;
+}

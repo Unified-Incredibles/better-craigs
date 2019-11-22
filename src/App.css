@@ -29,22 +29,26 @@
 
 } */
 
-.jumbotron,
-.jumbotron-fluid {
-  background-image: url("./339656-Downtown-Miami.jpg");
-  background-size: cover;
+.some{
+  display:flex;
+  justify-content: center;
 }
-
 .picture-content{
-  border: solid 2px red;
+  border: solid 2px rgba(0,0,0,0.5);
   padding: 20px;
   position:relative;
 margin-top: 5%;
+width:70vw;
+background-color:rgba(99, 183, 238, 0.5);
 }
 .horizontal-images{
   position:absolute;
   top:100px;
-  right:1050px;
+  right:100px;
+  display:flex;
+  flex-wrap:wrap;
+  width: 200px;
+  height: 400px;
 }
 
 .image-display{

@@ -16,15 +16,7 @@ export default class DisplayPicturesList extends Component {
                      {this.displayImages(picture.Images)}
                       </div>
                     </div>
-                    
-                      <a role="button" >
-                       <span  aria-hidden="true"></span>
-                   <span >Previous</span>
-             </a>
-            <a  role="button" >
-          <span aria-hidden="true"></span>
-             <span >Next</span>
-       </a>
+                
 </div>
                 </div>
             )
