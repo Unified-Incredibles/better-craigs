@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/better-craigs/precache-manifest.fe88f34211b04338f14fb745eeb3a99a.js"
+  "/better-craigs/precache-manifest.2035f197fe18c1d865a4778bbb4ab417.js"
 );
 
 self.addEventListener('message', (event) => {
