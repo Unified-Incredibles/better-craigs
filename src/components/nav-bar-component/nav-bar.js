@@ -20,6 +20,14 @@ export default class NavBar extends Component {
                    <button className="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
                 </form>
                <button className="profile"><img src={profileIcon} /></button>
+          
+{/*  
+                  <div class="dropdown-content">
+                     <a href="#">Link 1</a>
+                     <a href="#">Link 2</a>
+                     <a href="#">Link 3</a>
+                 </div> */}
+
               </div>
               </nav>
             </div>
