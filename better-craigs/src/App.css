@@ -20,11 +20,32 @@
 .App-link {
   color: #09d3ac;
 }
-header {
+/* header {
   position: fixed;
   top: 0;
   width: 100%;
   height: 20vh;
-  background-color: rgb(27, 80, 196);
+  background-color: #55c1ff;
 
+} */
+nav{
+  background-color: #55c1ff;
+  font-family: Helvetica;
+  font-weight:bold;
+}
+.nav-middle{
+  width: 130vh;
+}
+.profile{
+  height:3vh;
+  width:2vw;
+  background-color:transparent;
+  border:transparent;
+}
+.profile img{
+  height:5vh;
+  width:3vw;
+  position: relative;
+  top:-8px;
+  left: 30px;
 }
