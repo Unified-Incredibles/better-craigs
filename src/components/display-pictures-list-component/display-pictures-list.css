@@ -1,16 +1,33 @@
-.display-pictures-list-content{
+/* .display-pictures-list-content{
     height:100vh;
     width: 100vw;
     display:flex;
     flex-direction: column;
     justify-content: space-around;
     align-items: center;
+    margin-top: 50%;
+  
 }
 .picture-content{
-    height: 800px;
-    width: 700px;
+    height: 100px;
+    width: 80%;
 } 
 .carousal-self-item{
    height: 500px;
     width: 500px;
 }
+.horizontal-images{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+    height: 600px;
+    border: solid 1px black;
+}
+.image-display{
+    display: flex;
+    flex-direction: row;
+   width: 1000px;
+    align-items: center;
+} */
