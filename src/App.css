@@ -28,3 +28,9 @@
   background-color: #55c1ff;
 
 } */
+
+.jumbotron,
+.jumbotron-fluid {
+  background-image: url("./339656-Downtown-Miami.jpg");
+  background-size: cover;
+}

@@ -16,7 +16,7 @@ class App extends React.Component{
     return (
       <div>
         <NavBar />
-        <DisplayPicturesList pictureList = {this.state.pictureList}/>
+        {/* <DisplayPicturesList pictureList = {this.state.pictureList}/> */}
       </div>
     );
   }
