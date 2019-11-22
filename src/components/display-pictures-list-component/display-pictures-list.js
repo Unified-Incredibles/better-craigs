@@ -7,17 +7,23 @@ export default class DisplayPicturesList extends Component {
             return (
                 <div key={ind} className="picture-content">
                     <h3>{picture.Title}</h3>
-                    <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
-                     <div class="carousel-inner">
+                    <div >
+                    <div className="image-display">
+                    <div className="carousal-self-item">
+                      <img  src={picture.Images[0]} alt="First slide" />
+                    </div>
+                     <div className="horizontal-images">
                      {this.displayImages(picture.Images)}
                       </div>
-                      <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
-                       <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                   <span class="sr-only">Previous</span>
+                    </div>
+                    
+                      <a role="button" >
+                       <span  aria-hidden="true"></span>
+                   <span >Previous</span>
              </a>
-            <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
-          <span class="carousel-control-next-icon" aria-hidden="true"></span>
-             <span class="sr-only">Next</span>
+            <a  role="button" >
+          <span aria-hidden="true"></span>
+             <span >Next</span>
        </a>
 </div>
                 </div>
@@ -28,11 +34,16 @@ export default class DisplayPicturesList extends Component {
         console.log("images")
         return imageList.map((image,index) =>{
             console.log("images"+image)
-            return (
-                <div key={index} className="carousal-self-item">
-                <img className="d-block w-100" src={image} alt="First slide" />
+            if(index !== 0){
+            
+                return (
+                <div>
+                   <div key={index} className="carousal-self-item">
+                     <img  src={image} alt="First slide" />
+                   </div>
                 </div>
-            )
+                 )
+            }
         })
     }
     render() {
