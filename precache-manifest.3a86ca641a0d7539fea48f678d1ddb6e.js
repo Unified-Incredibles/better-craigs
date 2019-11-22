@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "06ea79033d5c951eb597ab7703530a7e",
+    "revision": "dd1b8b0d3143f4e4054395d56bfef440",
     "url": "/better-craigs/index.html"
   },
   {
@@ -8,15 +8,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/better-craigs/static/css/2.833dd627.chunk.css"
   },
   {
-    "revision": "204d2298dd5ee4aedbaa",
-    "url": "/better-craigs/static/css/main.dc8bd423.chunk.css"
+    "revision": "26b841db12bcd72fbb4d",
+    "url": "/better-craigs/static/css/main.7986e83c.chunk.css"
   },
   {
     "revision": "c51531ed521e35cc11c0",
     "url": "/better-craigs/static/js/2.44f715d0.chunk.js"
   },
   {
-    "revision": "204d2298dd5ee4aedbaa",
+    "revision": "26b841db12bcd72fbb4d",
     "url": "/better-craigs/static/js/main.14fec9f1.chunk.js"
   },
   {

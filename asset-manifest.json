@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/better-craigs/static/css/main.dc8bd423.chunk.css",
+    "main.css": "/better-craigs/static/css/main.7986e83c.chunk.css",
     "main.js": "/better-craigs/static/js/main.14fec9f1.chunk.js",
     "main.js.map": "/better-craigs/static/js/main.14fec9f1.chunk.js.map",
     "runtime-main.js": "/better-craigs/static/js/runtime-main.0fe8a2c5.js",
@@ -9,10 +9,10 @@
     "static/js/2.44f715d0.chunk.js": "/better-craigs/static/js/2.44f715d0.chunk.js",
     "static/js/2.44f715d0.chunk.js.map": "/better-craigs/static/js/2.44f715d0.chunk.js.map",
     "index.html": "/better-craigs/index.html",
-    "precache-manifest.69566b5309db9fc2e163695e33bde90f.js": "/better-craigs/precache-manifest.69566b5309db9fc2e163695e33bde90f.js",
+    "precache-manifest.3a86ca641a0d7539fea48f678d1ddb6e.js": "/better-craigs/precache-manifest.3a86ca641a0d7539fea48f678d1ddb6e.js",
     "service-worker.js": "/better-craigs/service-worker.js",
     "static/css/2.833dd627.chunk.css.map": "/better-craigs/static/css/2.833dd627.chunk.css.map",
-    "static/css/main.dc8bd423.chunk.css.map": "/better-craigs/static/css/main.dc8bd423.chunk.css.map",
+    "static/css/main.7986e83c.chunk.css.map": "/better-craigs/static/css/main.7986e83c.chunk.css.map",
     "static/media/nav-bar.css": "/better-craigs/static/media/339656-Downtown-Miami.d1655395.jpg",
     "static/media/account-icon-check.png": "/better-craigs/static/media/account-icon-check.ef20e411.png"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.0fe8a2c5.js",
     "static/css/2.833dd627.chunk.css",
     "static/js/2.44f715d0.chunk.js",
-    "static/css/main.dc8bd423.chunk.css",
+    "static/css/main.7986e83c.chunk.css",
     "static/js/main.14fec9f1.chunk.js"
   ]
 }
