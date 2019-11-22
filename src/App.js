@@ -14,7 +14,7 @@ class App extends React.Component{
   }
   render() {
     return (
-      <div>
+      <div >
         <NavBar />
         <div className="some">
         <DisplayPicturesList pictureList = {this.state.pictureList}/>

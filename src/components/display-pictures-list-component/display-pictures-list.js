@@ -30,7 +30,7 @@ export default class DisplayPicturesList extends Component {
             
                 return (
                 <div>
-                   <div key={index} className="carousal-self-item">
+                   <div key={index} >
                      <img  src={image} alt="First slide" />
                    </div>
                 </div>

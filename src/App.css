@@ -39,18 +39,29 @@
   position:relative;
 margin-top: 5%;
 width:70vw;
+height: 70vh;
 background-color:rgba(99, 183, 238, 0.5);
+box-shadow: 10px 10px 5px #aaaaaa;
+border-radius: 12px;
 }
 .horizontal-images{
   position:absolute;
-  top:100px;
+  top:80px;
   right:100px;
   display:flex;
   flex-wrap:wrap;
-  width: 200px;
+  width: 400px;
   height: 400px;
+}
+.horizontal-images img{
+  border: solid 2px black;
+  margin: 2px;
 }
 
 .image-display{
   width: 100px;
+}
+
+.carousal-self-item img{
+  border: solid 10px white;
 }
