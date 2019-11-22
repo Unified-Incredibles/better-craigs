@@ -1,0 +1,26 @@
+.nav-bar-content{
+    position: fixed;
+  top: 0;
+  width: 100%;
+}
+nav{
+    background-color: #55c1ff;
+    font-family: Helvetica;
+    font-weight:bold;
+  }
+  .nav-middle{
+    width: 130vh;
+  }
+  .profile{
+    height:3vh;
+    width:2vw;
+    background-color:transparent;
+    border:transparent;
+  }
+  .profile img{
+    height:5vh;
+    width:3vw;
+    position: relative;
+    top:-8px;
+    left: 30px;
+  }
